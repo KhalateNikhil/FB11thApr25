@@ -60,6 +60,7 @@ public class CreateNewAccountPage extends BaseClass{
 		HandleDropDown.selectByVisibleText(bmonth, month);
 		HandleDropDown.selectByVisibleText(byear, year);
 		Wait.selectAnyOption(gender, Gender);
+		System.out.println("TC 1 added by Nikhil Dada");
 	}
 	
 	
