@@ -62,6 +62,7 @@ public class CreateNewAccountPage extends BaseClass{
 		Wait.selectAnyOption(gender, Gender);
 		System.out.println("TC 1 added by Nikhil Dada");
 		System.out.println("TC 2 added by SoniTester");
+		System.out.println("TC 3 added by Nikhil Dada");
 	}
 	
 	
